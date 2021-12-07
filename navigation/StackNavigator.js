@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { createStackNavigator} from '@react-navigation/stack'
-import TabNavigator from "./tabNavigator"
+import TabNavigator from "./TabNavigator"
 import PostCard from '../screens/PostCard'
 
 const Stack = createStackNavigator()
