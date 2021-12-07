@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import StackNavigator from "./stackNavigator"
+import StackNavigator from "./StackNavigator"
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import Profile from "../screens/Profile";
 import Login from "../screens/login";
